@@ -19,6 +19,33 @@ require 'init.php';
 <body style ="margin-top: 200px; text-align:center; ">
 
 <a href="faker.php"><button>Create faker data</button></a>
-    
+
+<br>
+<br>
+<br>
+
+<a href="faker2.php"><button>Create faker data2 </button></a>
+
+<br>
+<br>
+<br>
+
+<a href="fakerPl.php"><button>Generuj polskie dane</button></a>
+
+<br>
+<br>
+<br>
+
+<a href="fakerImg.php"><button>Create fake images data</button></a>
+
+<br>
+<br>
+<br>
+
+<a href="fakerNational.php"><button>Create fake National data</button></a>
+
+
+
+
 </body>
 </html>
