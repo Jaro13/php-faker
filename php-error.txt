@@ -1,0 +1,1 @@
+[01-Dec-2017 15:13:32 UTC] PHP Parse error:  syntax error, unexpected '__DIR__' (T_DIR) in /home/osboxes/laravel/php-faker/init.php on line 6
